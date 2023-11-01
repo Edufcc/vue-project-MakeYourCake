@@ -1,0 +1,69 @@
+{
+  "ingredientes": {
+    "massas": [
+      {
+        "id": 1,
+        "tipo": "Massa Branca"
+      },
+      {
+        "id": 2,
+        "tipo": "Massa de Chocolate"
+      },
+      {
+        "id": 3,
+        "tipo": "Massa Mesclado"
+      }
+    ],
+    "recheios": [
+      {
+        "id": 1,
+        "tipo": "Leite Ninho"
+      },
+      {
+        "id": 2,
+        "tipo": "Chocolate"
+      },
+      {
+        "id": 3,
+        "tipo": "Chocolate meio amargo"
+      },
+      {
+        "id": 4,
+        "tipo": "Doce de leite"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "M&M'S"
+      },
+      {
+        "id": 2,
+        "tipo": "Nutella"
+      },
+      {
+        "id": 3,
+        "tipo": "Granulado"
+      },
+      {
+        "id": 4,
+        "tipo": "KitKat"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "cakes": []
+}
