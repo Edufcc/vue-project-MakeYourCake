@@ -1,11 +1,13 @@
 <template>
   <div class="main-container">
-    <h1>Home</h1>
+    <Banner />
+    <h1>Monte seu bolo</h1>
+    <p>formulario</p>
   </div>
 </template>
 
 <script setup lang="ts">
-
+import Banner from '@/components/Banner.vue';
 </script>
 
 <style></style>
