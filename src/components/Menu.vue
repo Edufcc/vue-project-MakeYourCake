@@ -22,7 +22,7 @@
 
 <style scoped>
     #menu {
-        background-color: #F0CD67;
+        background-color: var(--gray-color);
         border-radius: 25px;
         padding: 15px 50px;
         display: flex;
@@ -40,14 +40,14 @@
     }
 
     a {
-        color: #222;
+        color: var(--bg-color);
         text-decoration: none;
         margin: 12px;
         transition: .5s;
     }
 
     a:hover {
-        color: #FFF;
+        color: #111;
     }
 
 </style>

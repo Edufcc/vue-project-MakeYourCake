@@ -41,6 +41,6 @@ export default Vue.extend({
     text-align: center;
     font-size: 42px;
     margin-bottom: 30px;
-    color: #222;
+    color: var(--gray-color);;
   }
 </style>

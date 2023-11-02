@@ -13,10 +13,12 @@
   footer{
     width: 100%;
     height: 50px;
-    background-color: #F0CD67;
+    background-color: var(--gray-color);
     border-radius: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
+    color: var(--bg-color);
   }
+
 </style>
