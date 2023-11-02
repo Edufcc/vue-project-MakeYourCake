@@ -28,8 +28,6 @@ export default Vue.extend({
 <style>
   *{
     font-family: Arial, Helvetica, sans-serif;
-    margin: 8px;
-    padding: 0;
   }
 
   .main-container {
