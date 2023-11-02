@@ -1,12 +1,11 @@
-
 <template>
-  <main>
-   <h1>Home</h1>
-  </main>
+  <div class="main-container">
+    <h1>Home</h1>
+  </div>
 </template>
 
-  <script setup lang="ts">
-  
-  </script>
+<script setup lang="ts">
 
-  <style></style>
+</script>
+
+<style></style>
