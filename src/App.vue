@@ -28,6 +28,7 @@ export default Vue.extend({
 <style>
   *{
     font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
   }
 
   .main-container {
